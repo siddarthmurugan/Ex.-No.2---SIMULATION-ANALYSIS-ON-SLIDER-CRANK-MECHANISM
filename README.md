@@ -19,13 +19,13 @@
 ## PROCEDURE:
 ## Configuration Diagram (Assume scale 1:10)
 
-## Draw a horizontal reference line and mark a point D on it.
+## 1.Draw a horizontal reference line and mark a point D on it.
 
-## At D, draw a line DE of length 20 mm inclined at 120° to the horizontal line.
+## 2.At D, draw a line DE of length 20 mm inclined at 120° to the horizontal line.
 
-## With E as centre and radius = 60 mm, draw an arc to cut the horizontal line at F.
+## 3.With E as centre and radius = 60 mm, draw an arc to cut the horizontal line at F.
 
-## Join E to F to complete the configuration diagram.
+## 4.Join E to F to complete the configuration diagram.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
@@ -34,15 +34,15 @@
 
 ## Velocity Diagram Scale: 10 m/s = 100 mm (say)
 
-## In the velocity diagram, mark point C to represent the fixed point, so its velocity is zero.
+## 1.In the velocity diagram, mark point C to represent the fixed point, so its velocity is zero.
 
-## From c, draw vector cb = 100 mm perpendicular to crank CB (taken from the configuration diagram).
+## 2.From c, draw vector cb = 100 mm perpendicular to crank CB (taken from the configuration diagram).
 
-## Through b, draw a line perpendicular to link BA from the configuration diagram.
+## 3.Through b, draw a line perpendicular to link BA from the configuration diagram.
 
-## From c, draw a horizontal line to intersect the line drawn from b at point a.
+## 4.From c, draw a horizontal line to intersect the line drawn from b at point a.
 
-## Join c–a and b–a to complete the velocity diagram.
+## 5.Join c–a and b–a to complete the velocity diagram.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
